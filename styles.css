@@ -1,0 +1,14 @@
+th{background-color: green;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 10pt;
+	width: 80px;
+	height: 25px}
+.Dollars{text-align: center}
+td{background-color: beige;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 8pt}
+.day{text-align: right}
+.F{background-color: aquamarine}
+.L{background-color: blueviolet}
+.S{background-color: black;
+	color:white}
